@@ -9,7 +9,7 @@
  The purpose of this program is to use the zimbra.log present at /var/log/ location
  and parse the log based on FROM EMAIL ID & QUEUE ID for the ease of analyzing.
 
- ***********************************    *******************************************************
+ ******************************************************************************************
 """
 
 
