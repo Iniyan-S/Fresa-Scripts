@@ -56,7 +56,7 @@ def watchdog_qstats():
 		#timer_value = 600.0
 		
 		#Mail Function
-		p = base64.b64decode("MW4xeTRuMjYwOA==")
+		p = base64.b64decode("PASSWORD  HERE IN ENCODED FORMAT") # "MW4xeTRu=="
 		subject = "The Queue has reached the threshold"
 		content = "Subject:{}\n\n The Active Queue has reached {} and User Account {} is Locked".format(subject, value, username)
 		#content = ("The  Deferred Queue has reached %d" % value)
